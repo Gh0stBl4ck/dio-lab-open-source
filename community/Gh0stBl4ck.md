@@ -17,5 +17,5 @@
 ![JAVA](https://img.shields.io/badge/Java-f8f8f2?style=for-the-badge&logo=java)
 ![AWS](https://img.shields.io/badge/AWS-f8f8f2?style=for-the-badge&logo=AWS)
 ![AZURE](https://img.shields.io/badge/AZURE-f8f8f2?style=for-the-badge&logo=AZURE)
-![GOOGLE-CLOUND](https://img.shields.io/badge/GOOGLE-CLOUND-f8f8f2?style=for-the-badge&logo=GOOGLE-CLOUND)
+![CLOUND](https://img.shields.io/badge/CLOUND-f8f8f2?style=for-the-badge&logo=CLOUND)
 ![PYTHON](https://img.shields.io/badge/PYTHON-f8f8f2?style=for-the-badge&logo=PYTHON)
