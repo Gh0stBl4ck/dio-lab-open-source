@@ -23,3 +23,8 @@
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gh0stBl4ck&theme=transparent&bg_color=282a36&border_color=ff79c6&show_icons=true&icon_color=50fa7b&title_color=00aeff&text_color=e03c8a)
+
+
+## Contribuições
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Gh0stBl4ck&theme=bear&highcontrast=282a36&border=ff79c6&dates=50fa7b)
