@@ -14,5 +14,6 @@
 
 ## Habilidades
 
-!(https://iconscout.com/icon/java-file-3245136)
+![JAVA](https://img.shields.io/badge/Java-f8f8f2?style=for-the-badge&logo=java)
+![AWS](https://img.shields.io/badge/AWS-f8f8f2?style=for-the-badge&logo=AWS)
 
