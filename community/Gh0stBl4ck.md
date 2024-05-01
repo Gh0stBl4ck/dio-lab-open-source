@@ -1,12 +1,16 @@
 # Guilherme Lins Oliveira
 
 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas - Universidade São Judas Tadeu. 
+
 💻 Trabalho atualmente de Jovem Aprendiz em uma empresa de Telecomunicações no setor de Auxiliar de Escritório.
+
 🎯 Busco Atualmente vagas para estágiar na area de T.I e começar a ter experiência na area que quero atuar profissionalmente.
 
 ## Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-f8f8f2?style=for-the-badge&logo=linkedin&logoColor=0E76A8)] (https://www.linkedin.com/in/guilherme-lins-ab2a1a259/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f8f8f2?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/guilherme-lins-ab2a1a259/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-f8f8f2?style=for-the-badge&logo=instagram)] (https://www.instagram.com/glinsajax/)
+[![Instagram](https://img.shields.io/badge/Instagram-f8f8f2?style=for-the-badge&logo=instagram)](https://www.instagram.com/glinsajax/)
+
+##Habilidades
 
