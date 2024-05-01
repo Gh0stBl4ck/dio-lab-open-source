@@ -1,7 +1,12 @@
 # Guilherme Lins Oliveira
 
-Sou estudante de Análise e Desenvolvimento de Sistemas - Universidade São Judas Tadeu.
-Trabalho atualmente de Jovem Aprendiz em uma empresa de Telecomunicações no setor de Auxiliar de Escritório
+🎓 Sou estudante de Análise e Desenvolvimento de Sistemas - Universidade São Judas Tadeu. 
+💻 Trabalho atualmente de Jovem Aprendiz em uma empresa de Telecomunicações no setor de Auxiliar de Escritório.
+🎯 Busco Atualmente vagas para estágiar na area de T.I e começar a ter experiência na area que quero atuar profissionalmente.
 
+## Conecte-se comigo
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Gh0stBla4ck=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f8f8f2?style=for-the-badge&logo=linkedin&logoColor=0E76A8)] (https://www.linkedin.com/in/guilherme-lins-ab2a1a259/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-f8f8f2?style=for-the-badge&logo=instagram)] (https://www.instagram.com/glinsajax/)
+
